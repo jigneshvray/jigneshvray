@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/jigneshvray" target="blank"><img src="https://img.shields.io/twitter/follow/jigneshvray?logo=twitter&style=for-the-badge" alt="jigneshvray" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Web development with MERN stack.**
+- 🌱 I’m currently working as a **DevOps Engineer**.
 
-- 🌱 I’m currently learning **React, Node, AWS, Mongodb**
-
-- 💬 Ask me about **react, node, AWS, Docker, Mongodb, jenkins, Ansible.**
+- 💬 Ask me about ** AWS, Docker, Mongodb, jenkins, Ansible, K8S, Terraform, Azure, CI/CD**
 
 - 📫 How to reach me **jigneshvray@gmail.com**
 
