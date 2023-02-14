@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jigneshvray@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1KVVGXnMPunqCd2BZtZcE0sgGlnTUwAlYDx6aP0nt9mU/edit](https://docs.google.com/document/d/1KVVGXnMPunqCd2BZtZcE0sgGlnTUwAlYDx6aP0nt9mU/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1KVVGXnMPunqCd2BZtZcE0sgGlnTUwAlYDx6aP0nt9mU/edit)
 
 - ⚡ Fun fact **Extrovert to tech discussion.**
 
