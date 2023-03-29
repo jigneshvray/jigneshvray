@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Trainee DevOps Engineer.**
 
-- 💬 Ask me about **RDBMS, SCRUM, CI/CD, AWS, Azure, Docker, K8S, Ansible, Terraform, Jenkins, Linux, Shell-Script.**
+- 💬 Ask me about **RDBMS, SCRUM, CI/CD, Git, Git-Hub, Git-Lab, AWS, Azure, Docker, K8S, Ansible, Terraform, Jenkins, Linux, Shell-Script.**
 
 - 📫 How to reach me **jigneshvray@gmail.com**
 
