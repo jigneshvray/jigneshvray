@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jigneshvaray Vasava</h1>
 <h3 align="center">I am a DevOps Engineer.</h3>
 
-- 🔭 I’m currently working on **MERN stack Project.**
+- 🔭 I’m currently working as a **Trainee DevOps Engineer.**
 
 - 💬 Ask me about **RDBMS, SCRUM, CI/CD, AWS, Azure, Docker, K8S, Ansible, Terraform, Jenkins, Linux, Shell-Script.**
 
