@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jigneshvaray Vasava</h1>
 <h3 align="center">Associate DevOps Engineer | Cyber Security Researcher.</h3>
 
-- 🔭 I’m currently working on [AI based Cyber Security Tools](https://localhost/)
+- 🔭 I’m currently working on [AI based Cyber Security Tools](https://github.com/jigneshvray/AI-Based-Security-Tools)
 
-- 🌱 I’m currently learning **CISSP | AI**
+- 🌱 I’m currently learning CISSP and AI
 
-- 👯 I’m looking to collaborate on [AI based Cyber Security Tools](https://localhost/)
+- 👯 I’m looking to collaborate on [AI based Cyber Security Tools](https://github.com/users/jigneshvray/projects/5/views/1)
 
-- 🤝 I’m looking for help with [AI RAG Pipeline](https://localhost/)
+- 🤝 I’m looking for help with [AI RAG Pipeline](https://github.com/jigneshvray/AI-RAG-Pipeline/)
 
-- 👨‍💻 All of my projects are available at [http://localhost/](http://localhost/)
+- 👨‍💻 All of my projects are available at [Git-Hub Projects](https://github.com/jigneshvray?tab=projects)
 
-- 📝 I Weekly write articles on [Cloud Solutions and Cyber Security.](Cloud Solutions and Cyber Security.)
+- 📝 I Weekly write articles on [Cloud Solutions and Cyber Security.](https://jigneshvray.medium.com/)
 
 - 💬 Ask me about **AWS Services, Pentest, RDS, Security Tools, Security Architecture.**
-
-- 📫 How to reach me **jigneshvray@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
